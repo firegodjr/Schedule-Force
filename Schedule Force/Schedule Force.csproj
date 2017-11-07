@@ -54,8 +54,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MonthSchedule.cs" />
-    <Compile Include="ScheduleSlot.cs" />
+    <Compile Include="DaySlot.cs" />
+    <Compile Include="ShiftSlot.cs" />
     <Compile Include="Worker.cs" />
+    <Compile Include="ScheduleMapper.cs" />
+    <Compile Include="WorkerSlot.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
